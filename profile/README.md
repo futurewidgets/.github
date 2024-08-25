@@ -10,7 +10,7 @@ Next time better go to <<<RENDER_INLINE_LINK:
 
 <https://codeberg.org/futurewidgets/>
 
-```text
+```console
 .
 EOF
 
