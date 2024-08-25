@@ -1,6 +1,6 @@
 ```console
 $ telnet zero.futurewidgets.eu
-Deploying parachute.
+Deploying memory parachute.
 .
 .
 .
@@ -13,4 +13,7 @@ Next time better go to <<<RENDER_INLINE_LINK:
 ```text
 .
 EOF
+
+Falling back to NOP water slide.
+OK.
 ```
